@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This is the beggining of my personal web page: joshuamsalazar.github.io
+This is the beggining of my personal web page: https://joshuamsalazar.github.io
 
 Maybe for the moment you can check my profile here: https://es.wikipedia.org/wiki/Usuario:Thelichprince
 
