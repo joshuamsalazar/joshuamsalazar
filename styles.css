@@ -1,0 +1,73 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+  }
+  .header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  h1 {
+    font-size: 36px;
+    margin: 0;
+  }
+  .intro-section {
+    background-color: #f9f9f9;
+    padding: 40px;
+    text-align: center;
+  }
+  .intro-text {
+    font-size: 20px;
+    line-height: 1.6;
+  }
+  .calendar-section {
+    background-color: #fff;
+    padding: 40px;
+    text-align: center;
+  }
+  .calendar-frame {
+    border: none;
+    width: 800px;
+    height: 600px;
+    max-width: 100%;
+  }
+  .social-media-section {
+    background-color: #333;
+    color: #fff;
+    padding: 40px;
+    text-align: center;
+  }
+  .social-media-button {
+    display: inline-block;
+    background-color: #fff;
+    color: #333;
+    font-size: 16px;
+    padding: 10px 20px;
+    margin: 10px;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background-color 0.3s ease-in-out;
+  }
+  .social-media-button:hover {
+    background-color: #333;
+    color: #fff;
+  }
+  .social-media-button .icon {
+    margin-right: 5px;
+    transition: transform 0.3s ease-in-out;
+  }
+  .social-media-button:hover .icon {
+    transform: rotate(360deg);
+  }
+  .footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  .footer-text {
+    font-size: 14px;
+  }
