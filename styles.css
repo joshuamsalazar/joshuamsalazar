@@ -1,11 +1,14 @@
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #f2f2f2;
-  }
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-image: url(https://lh3.googleusercontent.com/pw/AJFCJaU77J2PcoOpLD6zw_bDqdtObVXB5hevNKzsRMlrVq40U2zfYiKnFZQY8Wwh5R03GWSPXgxBN_mOcgFq5Hu2PQtBBg0fXVXfDhv8vEQAfah-_0QYs7f3U32oyrT9E6lxUwbYMeNNHTU0fVgTBvD9w5Yclw=w1229-h922-s-no);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+}
   .header {
-    background-color: #333;
+    background-color: #03045e;
     color: #fff;
     padding: 20px;
     text-align: center;
@@ -15,7 +18,8 @@ body {
     margin: 0;
   }
   .intro-section {
-    background-color: #f9f9f9;
+    background-color: #023e8a;
+    color: #fff;
     padding: 40px;
     text-align: center;
   }
@@ -24,7 +28,6 @@ body {
     line-height: 1.6;
   }
   .calendar-section {
-    background-color: #fff;
     padding: 40px;
     text-align: center;
   }
@@ -35,14 +38,17 @@ body {
     max-width: 100%;
   }
   .social-media-section {
-    background-color: #333;
+    background-color: #023e8a;
     color: #fff;
     padding: 40px;
     text-align: center;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
   .social-media-button {
     display: inline-block;
-    background-color: #fff;
+    background-color: #ade8f4;
     color: #333;
     font-size: 16px;
     padding: 10px 20px;
