@@ -77,3 +77,52 @@ body {
   .footer-text {
     font-size: 14px;
   }
+
+  .projects-section {
+    background-color: #0096c7;
+    color: #fff;
+    padding: 40px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .projects-section h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  .projects-section p {
+    font-size: 18px;
+    line-height: 1.6;
+  }
+  
+  .projects-section .fundraiser {
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+
+  .credits-section {
+    background-color: #0096c7;
+    color: #fff;
+    padding: 40px;
+    text-align: center;
+  }
+  
+  .credits-section h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  .credits-section p {
+    font-size: 18px;
+    line-height: 1.6;
+  }
+  
+  .credits-section .author {
+    font-weight: bold;
+  }
